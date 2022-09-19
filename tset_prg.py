@@ -15,11 +15,11 @@
 
 #prg-3-do factorial
 
-fact=1
-num=int(input("Enter the number: "))
-while num>0 :
-        fact=fact*num
-        num=num-1
+#fact=1
+#num=int(input("Enter the number: "))
+#while num>0 :
+#        fact=fact*num
+#        num=num-1
 
-print("Factorial is: ",fact)
+#print("Factorial is: ",fact)
 
